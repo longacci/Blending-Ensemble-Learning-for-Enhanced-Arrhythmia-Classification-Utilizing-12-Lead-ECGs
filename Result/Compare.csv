@@ -1,0 +1,8 @@
+,Rhythm Group,F1-score,Precision,Recall
+0,AFIB,0.941,0.938,0.944
+1,SB,0.993,0.990,0.996
+2,SR,0.977,0.982,0.972
+3,GSVT,0.949,0.953,0.944
+4,macro avg,0.965,0.966,0.964
+5,micro avg,0.97,0.97,0.97
+6,weighted avg,0.97,0.971,0.97
